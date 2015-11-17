@@ -1,1 +1,1 @@
-var labels=['NAME','PLACE'];
+var labels=['CLINTON',''];

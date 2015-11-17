@@ -1,29 +1,73 @@
-[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.25
-[{lemma:/\Qpresident\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.0625
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qbe\E/}] [{lemma:/\Qbear\E/}]	0.2
-[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.25
-[{lemma:/\Qpresident\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.0625
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qbe\E/}] [{lemma:/\Qbear\E/}]	0.2
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qjr.\E/}]	0.5
-[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.25
-[{lemma:/\Qpresident\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.0625
-[{lemma:/\Qleader\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.3333333333333333
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qbe\E/}] [{lemma:/\Qbear\E/}]	0.2
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qset\E/}]	0.3333333333333333
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qjr.\E/}]	0.5
-[{lemma:/\Qsenator\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.25
-[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.25
-[{lemma:/\Qpresident\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.0625
-[{lemma:/\Qleader\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.3333333333333333
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qbe\E/}] [{lemma:/\Qbear\E/}]	0.2
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qtake\E/}]	0.3333333333333333
-[{NAME:NAME}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.9444444444444444
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qset\E/}]	0.3333333333333333
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qjr.\E/}]	0.5
-[{lemma:/\Qsenator\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.25
-[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.25
-[{lemma:/\Qpresident\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.0625
-[{lemma:/\Qleader\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.3333333333333333
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qbe\E/}] [{lemma:/\Qbear\E/}]	0.2
-(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qtake\E/}]	0.3333333333333333
-[{NAME:NAME}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.9444444444444444
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qhave\E/}] [{lemma:/\Qsay\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q.\E/}]	0.5
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qhave\E/}] [{lemma:/\Qsay\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Q30\E/}] [{lemma:/\Qseconds\E/}]	0.6666666666666666
+[{lemma:/\Qlove\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q.\E/}]	0.5
+[{lemma:/\Qmr.\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}]	0.6
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}]	0.75
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qhave\E/}] [{lemma:/\Qsay\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Q30\E/}] [{lemma:/\Qseconds\E/}]	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qwant\E/}]	0.5
+[{lemma:/\Qlove\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}]	0.6
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qsay\E/}]	0.75
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q.\E/}]	0.5
+[{lemma:/\Qsenator\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.75
+[{lemma:/\Qmr.\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qget\E/}]	0.5
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}]	0.75
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qhave\E/}] [{lemma:/\Qsay\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Q30\E/}] [{lemma:/\Qseconds\E/}]	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qwant\E/}]	0.5
+[{lemma:/\Qlove\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{NAME:NAME}]	0.6666666666666666
+[{lemma:/\Qmy\E/}] [{lemma:/\Qcolleague\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+[{lemma:/\Qabout\E/}] [{NAME:NAME}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}]	0.6
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qnot\E/}]	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qsay\E/}]	0.75
+[{lemma:/\Qquick\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q.\E/}]	0.5
+[{lemma:/\Qsenator\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.75
+[{lemma:/\Qmr.\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qget\E/}]	0.5
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}]	0.75
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qhave\E/}] [{lemma:/\Qsay\E/}]	0.5
+[{NAME:NAME}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6363636363636364
+[{lemma:/\Qcolleague\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Q30\E/}] [{lemma:/\Qseconds\E/}]	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qwant\E/}]	0.5
+[{lemma:/\Qlove\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{NAME:NAME}]	0.6666666666666666
+[{lemma:/\Qmy\E/}] [{lemma:/\Qcolleague\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+[{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+[{lemma:/\Qabout\E/}] [{NAME:NAME}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}]	0.6
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qnot\E/}]	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qsay\E/}]	0.75
+[{lemma:/\Qclinton\E/}] [{lemma:/\Qand\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.3333333333333333
+[{lemma:/\Qquick\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q.\E/}]	0.5
+[{lemma:/\Qsenator\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.75
+[{lemma:/\Qmr.\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3}) [{lemma:/\Qget\E/}]	0.5
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/} & {ner:PERSON}]{1,3})	0.5

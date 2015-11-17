@@ -1,9 +1,9 @@
 #!/bin/bash
 printf "\nDownloading Stanford CoreNLP\n"
-wget http://nlp.stanford.edu/software/stanford-corenlp-full-2014-06-16.zip
+#wget http://nlp.stanford.edu/software/stanford-corenlp-full-2014-06-16.zip
 printf "\nUnzipping it\n"
 #unzip it
-unzip stanford-corenlp-full-2014-06-16.zip
+#unzip stanford-corenlp-full-2014-06-16.zip
 printf "\nCopying jar files to lib\n"
 #copy the jar files
 cp stanford-corenlp-full-2014-06-16/*.jar lib/

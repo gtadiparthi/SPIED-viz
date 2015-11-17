@@ -9,11 +9,11 @@ printf "\n\nRUNNING THE SECOND SYSTEM\n\n"
 java -cp $CLASSPATH:lib/* edu.stanford.nlp.patterns.surface.GetPatternsFromDataMultiClass -props properties/example.properties -identifier NotUsingNERTargetRest -useTargetNERRestriction false
 
 #Visualize the results for the entity type NAME and PLACE
-#python pied/prepareData.py --labels NAME,PLACE  --sys1dir out/UsingNERTargetRest --sys2dir out/NotUsingNERTargetRest --google "USA president"
+python pied/prepareData.py --labels CLINTON, SANDERS, OMALLEY  --sys1dir out/UsingNERTargetRest --sys2dir out/NotUsingNERTargetRest --google "DEBATE"
 
 printf "\n\nPREPARING DATA FOR VISUALIZATION\n\n"
 
-python pied/prepareData.py --labels NAME,PLACE --labeledfiles data/goldnames.txt,data/goldplaces.txt  --sys1dir out/UsingNERTargetRest --sys2dir out/NotUsingNERTargetRest --google "USA president"
+#python pied/prepareData.py --labels NAME,PLACE --labeledfiles data/goldnames.txt,data/goldplaces.txt  --sys1dir out/UsingNERTargetRest --sys2dir out/NotUsingNERTargetRest --google "USA president"
 
 #Change to whatever command you use to open the html file
 printf "\n\nOPENING pied/index.html\n\n"
