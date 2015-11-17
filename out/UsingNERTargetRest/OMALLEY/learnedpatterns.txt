@@ -1,0 +1,75 @@
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.6666666666666666
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.6666666666666666
+[{lemma:/\Qraise\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qmain\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qincome\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qhard\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+[{lemma:/\Qmuslim\E/}]  (?$term [{ner:MISC}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+[{lemma:/\Qincome\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qfree\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qforward\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qhard\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qmuslim\E/}]  (?$term [{ner:MISC}]{1,3})	0.5
+[{lemma:/\Qequal\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.6666666666666666
+[{lemma:/\Qraise\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qmain\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qgulf\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qgovernment\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+[{SANDERS:SANDERS}]  (?$term [{ner:MISC}]{1,3})	0.5
+[{lemma:/\Qincome\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qfree\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qforward\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qhard\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qeconomist\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qmuslim\E/}]  (?$term [{ner:MISC}]{1,3})	0.5
+[{lemma:/\Qequal\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.6666666666666666
+[{lemma:/\Qraise\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qmain\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qgulf\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qentire\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qcommunity\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{CLINTON:CLINTON}]  (?$term [{ner:ORGANIZATION}]{1,3})	0.5
+[{lemma:/\Qgovernment\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+[{lemma:/\Qincome\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qeconomist\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.6666666666666666
+[{lemma:/\Qentire\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qfamily\E/}]	0.5
+[{CLINTON:CLINTON}]  (?$term [{ner:ORGANIZATION}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+[{SANDERS:SANDERS}]  (?$term [{ner:MISC}]{1,3})	0.5
+[{lemma:/\Qfree\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qforward\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{OMALLEY:OMALLEY}] [{lemma:/\Q,\E/}] [{lemma:/\Qand\E/}]	0.6666666666666666
+[{lemma:/\Qhard\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qmuslim\E/}]  (?$term [{ner:MISC}]{1,3})	0.5
+[{lemma:/\Qequal\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qraise\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qmain\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qgulf\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qcommunity\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qincome\E/}]	0.5
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{OMALLEY:OMALLEY}] [{lemma:/\Qand\E/}]	0.6666666666666666
+[{lemma:/\Qgovernment\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qcall\E/}]	0.5

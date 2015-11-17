@@ -1,0 +1,75 @@
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qorganization\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:MISC}]{1,3}) [{CLINTON:CLINTON}]	0.6666666666666666
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+[{SANDERS:SANDERS}]  (?$term [{ner:MISC}]{1,3})	0.5
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qdonald\E/}]	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qallow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qorganization\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:MISC}]{1,3}) [{CLINTON:CLINTON}]	0.6666666666666666
+[{lemma:/\Qcomprehensive\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qchallenge\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qspike\E/}]	0.5
+[{SANDERS:SANDERS}]  (?$term [{ner:MISC}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qindustry\E/}]	0.5
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qdonald\E/}]	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qshow\E/}]	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qchallenge\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:MISC}]{1,3}) [{OMALLEY:OMALLEY}]	0.5
+[{lemma:/\Qallow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qorganization\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:MISC}]{1,3}) [{CLINTON:CLINTON}]	0.6666666666666666
+[{lemma:/\Qcomprehensive\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qdeserve\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qspike\E/}]	0.5
+[{SANDERS:SANDERS}]  (?$term [{ner:MISC}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qindustry\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qmoney\E/}]	0.5
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qdonald\E/}]	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qshow\E/}]	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qchallenge\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:MISC}]{1,3}) [{OMALLEY:OMALLEY}]	0.5
+[{lemma:/\Qallow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qcost\E/}]	0.6666666666666666
+[{lemma:/\Qorganization\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:MISC}]{1,3}) [{CLINTON:CLINTON}]	0.6666666666666666
+[{lemma:/\Qcomprehensive\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qdeserve\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qregulation\E/}]	0.5
+[{lemma:/\Qyoung\E/}]  (?$term [{tag:/JJ.*/} & {ner:MISC}]{1,3})	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qmistake\E/}]	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qindustry\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qmoney\E/}]	0.5
+(?$term [{ner:MISC}]{1,3}) [{SANDERS:SANDERS}]	0.75
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qshow\E/}]	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qchallenge\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{SANDERS:SANDERS} | {CLINTON:CLINTON}]	0.5
+[{lemma:/\Qallow\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{CLINTON:CLINTON}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qyoung\E/}]  (?$term [{tag:/JJ.*/} & {ner:MISC}]{1,3})	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qspike\E/}]	0.5
+[{SANDERS:SANDERS}]  (?$term [{ner:MISC}]{1,3})	0.5
+[{lemma:/\Qtough\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qdonald\E/}]	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qrespect\E/}]	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:MISC}]{1,3}) [{OMALLEY:OMALLEY}]	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qcost\E/}]	0.6666666666666666
+[{lemma:/\Qorganization\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:MISC}]{1,3}) [{CLINTON:CLINTON}]	0.6666666666666666
+[{lemma:/\Qcomprehensive\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qdeserve\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qregulation\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{lemma:/\Qmistake\E/}]	0.5

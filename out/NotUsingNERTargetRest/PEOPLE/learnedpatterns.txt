@@ -1,0 +1,75 @@
+[{lemma:/\Qtrust\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qwant\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qrise\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qsocial\E/}]	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qlive\E/}]	0.6666666666666666
+[{lemma:/\Qtrust\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qnew\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qwant\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{PEOPLE:PEOPLE}] [{lemma:/\Q--\E/}]	0.6666666666666666
+[{lemma:/\Qtalented\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qrise\E/}]	0.6666666666666666
+[{lemma:/\Qmiddle\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{PEOPLE:PEOPLE}] [{lemma:/\Qhave\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qsocial\E/}]	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qlive\E/}]	0.6666666666666666
+(?$term []{1,3}) [{PEOPLE:PEOPLE}] [{lemma:/\Q--\E/}]	0.6666666666666666
+[{lemma:/\Qtalented\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qkeep\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qmiddle\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qhelp\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qlive\E/}]	0.6666666666666666
+[{lemma:/\Qtrust\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qhurt\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qnew\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qmexican\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qwant\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qrise\E/}]	0.6666666666666666
+[{lemma:/\Qhear\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{PEOPLE:PEOPLE}] [{lemma:/\Qhave\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qsocial\E/}]	0.6666666666666666
+(?$term []{1,3}) [{PEOPLE:PEOPLE}] [{lemma:/\Q--\E/}]	0.6666666666666666
+[{lemma:/\Qtalented\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qkeep\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qmiddle\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qaverage\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qhelp\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qlive\E/}]	0.6666666666666666
+[{lemma:/\Qgive\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Quse\E/}]	0.5
+[{lemma:/\Qtrust\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qhurt\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qnew\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qmexican\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qwant\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qrise\E/}]	0.6666666666666666
+[{lemma:/\Qfind\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qhear\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qwrite\E/}]	0.5
+(?$term []{1,3}) [{PEOPLE:PEOPLE}] [{lemma:/\Qhave\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qsocial\E/}]	0.6666666666666666
+(?$term []{1,3}) [{PEOPLE:PEOPLE}] [{lemma:/\Q--\E/}]	0.6666666666666666
+[{lemma:/\Qtalented\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qbetter\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qtalk\E/}]	0.5
+[{lemma:/\Qhelp\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Quse\E/}]	0.5
+[{lemma:/\Qwant\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qfind\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qtogether\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qthink\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qcare\E/}]	0.5
+[{lemma:/\Qkeep\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qmiddle\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qaverage\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qlive\E/}]	0.6666666666666666
+[{lemma:/\Qgive\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qtrust\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qhurt\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qnew\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qmexican\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qrise\E/}]	0.6666666666666666
+[{lemma:/\Qhear\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qwrite\E/}]	0.5
+(?$term []{1,3}) [{PEOPLE:PEOPLE}] [{lemma:/\Qhave\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qsocial\E/}]	0.6666666666666666

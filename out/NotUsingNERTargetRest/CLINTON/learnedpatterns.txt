@@ -1,0 +1,75 @@
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qone\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qorganization\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qcomprehensive\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qrevitalize\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qcity\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qone\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qmexico\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qorganization\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qall\E/}] [{SANDERS:SANDERS}]	0.6666666666666666
+[{lemma:/\Qrevitalize\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qone\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qmexico\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qorganization\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qall\E/}] [{SANDERS:SANDERS}]	0.6666666666666666
+[{lemma:/\Qcomprehensive\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qcity\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{CLINTON:CLINTON}]  (?$term [{tag:/NN.*/}]{1,3}) [{CLINTON:CLINTON}]	0.6666666666666666
+[{CLINTON:CLINTON}] [{CLINTON:CLINTON}]  (?$term []{1,3})	0.6666666666666666
+[{SANDERS:SANDERS} | {OMALLEY:OMALLEY}]  (?$term [{tag:/IN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{CLINTON:CLINTON}] [{lemma:/\Q,\E/}]	0.75
+[{lemma:/\Qallow\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qrevitalize\E/}]  (?$term []{1,3})	0.5
+[{SANDERS:SANDERS}] [{lemma:/\Qof\E/}] [{CLINTON:CLINTON}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qunderstand\E/}]	0.5
+[{lemma:/\Qone\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qindustry\E/}]	0.5
+[{lemma:/\Qmexico\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qorganization\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qall\E/}] [{SANDERS:SANDERS}]	0.6666666666666666
+[{lemma:/\Qcomprehensive\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qcity\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{CLINTON:CLINTON}]  (?$term [{tag:/NN.*/}]{1,3}) [{CLINTON:CLINTON}]	0.6666666666666666
+[{CLINTON:CLINTON}] [{CLINTON:CLINTON}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{CLINTON:CLINTON}] [{CLINTON:CLINTON}]	0.5714285714285714
+[{SANDERS:SANDERS} | {OMALLEY:OMALLEY}]  (?$term [{tag:/IN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{CLINTON:CLINTON}] [{lemma:/\Q,\E/}]	0.75
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qchallenge\E/}]	0.5
+[{lemma:/\Qallow\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qone\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qindustry\E/}]	0.5
+[{lemma:/\Qmexico\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qtake\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+[{lemma:/\Qorganization\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qspike\E/}]	0.5
+[{lemma:/\Qguarantee\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qall\E/}] [{SANDERS:SANDERS}]	0.6666666666666666
+[{lemma:/\Qcomprehensive\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{CLINTON:CLINTON}]  (?$term [{tag:/NN.*/}]{1,3}) [{CLINTON:CLINTON}]	0.6666666666666666
+[{CLINTON:CLINTON}] [{CLINTON:CLINTON}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qnight\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{CLINTON:CLINTON}] [{CLINTON:CLINTON}]	0.5714285714285714
+[{SANDERS:SANDERS} | {OMALLEY:OMALLEY}]  (?$term [{tag:/IN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{CLINTON:CLINTON}] [{lemma:/\Q,\E/}]	0.75
+[{lemma:/\Qallow\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qrevitalize\E/}]  (?$term []{1,3})	0.5
+[{SANDERS:SANDERS}] [{lemma:/\Qof\E/}] [{CLINTON:CLINTON}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qunderstand\E/}]	0.5
+[{lemma:/\Q,\E/}] [{CLINTON:CLINTON}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qregulation\E/}]	0.5
+[{lemma:/\Qcity\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qsix\E/}]  (?$term [{tag:/JJ.*/}]{1,3})	0.5
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qchallenge\E/}]	0.5
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qmoney\E/}]	0.5

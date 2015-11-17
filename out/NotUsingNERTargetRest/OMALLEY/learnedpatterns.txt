@@ -1,0 +1,75 @@
+(?$term []{1,3}) [{lemma:/\Qfight\E/}]	0.6666666666666666
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qprogress\E/}]	0.6666666666666666
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qleadership\E/}]	0.6666666666666666
+[{lemma:/\Qactually\E/}] [{lemma:/\Qbe\E/}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qfight\E/}]	0.6666666666666666
+[{lemma:/\Qrevitalize\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qprogress\E/}]	0.6666666666666666
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qleadership\E/}]	0.6666666666666666
+[{lemma:/\Qactually\E/}] [{lemma:/\Qbe\E/}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+[{lemma:/\Qrevitalize\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qprogress\E/}]	0.6666666666666666
+[{lemma:/\Qactually\E/}] [{lemma:/\Qbe\E/}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+[{lemma:/\Qincome\E/}]  (?$term []{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qfight\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qthat\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+[{lemma:/\Qmain\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qhard\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qleadership\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qwe\E/}] [{OMALLEY:OMALLEY}] [{lemma:/\Qto\E/}] [{lemma:/\Qdo\E/}]	0.6666666666666666
+[{lemma:/\Qfree\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qrevitalize\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qequal\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qprogress\E/}]	0.6666666666666666
+[{lemma:/\Qgulf\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qactually\E/}] [{lemma:/\Qbe\E/}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+[{lemma:/\Qincome\E/}]  (?$term []{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qfight\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qthat\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+[{lemma:/\Qmain\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qentire\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qhard\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qgovernment\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qleadership\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qwe\E/}] [{OMALLEY:OMALLEY}] [{lemma:/\Qto\E/}] [{lemma:/\Qdo\E/}]	0.6666666666666666
+[{lemma:/\Qeconomist\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qpresident\E/}]	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qbe\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qonly\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qstill\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qactually\E/}] [{lemma:/\Qbe\E/}]  (?$term []{1,3})	0.6666666666666666
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qtry\E/}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qthat\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qisis\E/}]	0.5
+[{lemma:/\Qgovernment\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qshadow\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qwe\E/}] [{OMALLEY:OMALLEY}] [{lemma:/\Qto\E/}] [{lemma:/\Qdo\E/}]	0.6666666666666666
+[{lemma:/\Qfree\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qrevitalize\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qequal\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qprogress\E/}]	0.6666666666666666
+[{lemma:/\Qcase\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qgulf\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qincome\E/}]  (?$term []{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qfight\E/}]	0.6666666666666666
+[{lemma:/\Qmain\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qentire\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qhard\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qfor\E/}] [{lemma:/\Qthe\E/}] [{lemma:/\Qunited\E/}]	0.6666666666666666
+(?$term [{tag:/JJ.*/}]{1,3}) [{lemma:/\Qleadership\E/}]	0.6666666666666666
+[{lemma:/\Qcommunity\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5

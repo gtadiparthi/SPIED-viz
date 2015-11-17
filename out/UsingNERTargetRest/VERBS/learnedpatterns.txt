@@ -1,0 +1,75 @@
+[{lemma:/\Qwan\E/}] [{lemma:/\Qna\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qtax\E/}] [{lemma:/\Q--\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwan\E/}] [{lemma:/\Qna\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qmilitary\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+[{lemma:/\Qone\E/}] [{lemma:/\Qof\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qtax\E/}] [{lemma:/\Q...\E/}]	0.6666666666666666
+[{lemma:/\Qwe\E/}] [{lemma:/\Qgovernment\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qnever\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qtax\E/}] [{lemma:/\Q--\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+[{lemma:/\Qelection\E/}] [{lemma:/\Qwe\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qentitlement\E/}] [{lemma:/\Q,\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qtax\E/}] [{lemma:/\Q...\E/}]	0.6666666666666666
+[{VERBS:VERBS}]  (?$term [{tag:/TO.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qwan\E/}] [{lemma:/\Qna\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qmilitary\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qone\E/}] [{lemma:/\Qof\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qof\E/}] [{lemma:/\Qtax\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qgovernment\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qnever\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qtax\E/}] [{lemma:/\Q--\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qi\E/}] [{lemma:/\Qalso\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+[{lemma:/\Qelection\E/}] [{lemma:/\Qwe\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qentitlement\E/}] [{lemma:/\Q,\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qtax\E/}] [{lemma:/\Q...\E/}]	0.6666666666666666
+[{VERBS:VERBS}]  (?$term [{tag:/TO.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qclinton\E/}] [{lemma:/\Qto\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qjob\E/}] [{lemma:/\Q,\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{VERBS:VERBS}]  (?$term [{ner:O}]{1,3}) [{VERBS:VERBS}]	0.6666666666666666
+[{lemma:/\Qwan\E/}] [{lemma:/\Qna\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qmilitary\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qone\E/}] [{lemma:/\Qof\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qof\E/}] [{lemma:/\Qtax\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qgovernment\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{VERBS:VERBS}]	0.5454545454545454
+[{lemma:/\Qwe\E/}] [{lemma:/\Qnever\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qtax\E/}] [{lemma:/\Q--\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qand\E/}] [{PEOPLE:PEOPLE}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qi\E/}] [{lemma:/\Qalso\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/NN.*/} & {ner:O}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+[{lemma:/\Qelection\E/}] [{lemma:/\Qwe\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qclinton\E/}] [{lemma:/\Qto\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qmilitary\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qyou\E/}] [{lemma:/\Qanother\E/}]	0.5
+(?$term [{tag:/JJ.*/} & {ner:O}]{1,3}) [{VERBS:VERBS}]	0.5454545454545454
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qthank\E/}]	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qnever\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qtax\E/}] [{lemma:/\Q--\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qand\E/}] [{PEOPLE:PEOPLE}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qentitlement\E/}] [{lemma:/\Q,\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{ner:O}]{1,3}) [{lemma:/\Qtax\E/}] [{lemma:/\Q...\E/}]	0.6666666666666666
+[{VERBS:VERBS}]  (?$term [{tag:/TO.*/} & {ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qjob\E/}] [{lemma:/\Q,\E/}]  (?$term [{ner:O}]{1,3})	0.5
+(?$term [{tag:/VB.*/} & {ner:O}]{1,3}) [{lemma:/\Qyou\E/}] [{lemma:/\Qone\E/}]	0.5
+[{VERBS:VERBS}]  (?$term [{ner:O}]{1,3}) [{VERBS:VERBS}]	0.6666666666666666
+[{lemma:/\Qcontrol\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qwan\E/}] [{lemma:/\Qna\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qone\E/}] [{lemma:/\Qof\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{lemma:/\Qof\E/}] [{lemma:/\Qtax\E/}]  (?$term [{tag:/NN.*/} & {ner:O}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qgovernment\E/}]  (?$term [{ner:O}]{1,3})	0.5
+[{VERBS:VERBS}]  (?$term [{ner:O}]{1,3}) [{lemma:/\Qtax\E/}]	0.5
+[{lemma:/\Qi\E/}] [{lemma:/\Qalso\E/}]  (?$term [{tag:/VB.*/} & {ner:O}]{1,3})	0.5

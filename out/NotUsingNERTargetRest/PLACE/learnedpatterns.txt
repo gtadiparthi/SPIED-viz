@@ -1,0 +1,66 @@
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qaugust\E/}]	0.3333333333333333
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.3333333333333333
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.5
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.375
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qaugust\E/}]	0.3333333333333333
+(?$term [{tag:/NN.*/}]{1,3}) [{PLACE:PLACE}]	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.3333333333333333
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.5
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.375
+[{PLACE:PLACE}]  (?$term []{1,3})	0.5
+[{lemma:/\Qwilliam\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.25
+[{lemma:/\Qpolitics\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{PLACE:PLACE}]	0.6666666666666666
+[{lemma:/\Qbear\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.5
+[{PLACE:PLACE}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qdistrict\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qaugust\E/}]	0.3333333333333333
+[{lemma:/\Qgovernor\E/}] [{lemma:/\Qof\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qgovernor\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.3333333333333333
+[{lemma:/\Qdefeat\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.375
+[{lemma:/\Qwilliam\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.25
+[{lemma:/\Qpolitics\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{PLACE:PLACE}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qcongressman\E/}]	0.5
+[{lemma:/\Qcongress\E/}] [{lemma:/\Qfrom\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qbear\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.5
+[{lemma:/\Qknow\E/}] [{lemma:/\Qas\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{PLACE:PLACE}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qdistrict\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qaugust\E/}]	0.3333333333333333
+[{lemma:/\Qgovernor\E/}] [{lemma:/\Qof\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qgovernor\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qstate\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.3333333333333333
+[{lemma:/\Qbear\E/}]  (?$term []{1,3}) [{PLACE:PLACE}]	0.5
+[{lemma:/\Qdefeat\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.375
+[{lemma:/\Qwilliam\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.25
+[{lemma:/\Qpolitics\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{PLACE:PLACE}]	0.6666666666666666
+(?$term []{1,3}) [{lemma:/\Qcongressman\E/}]	0.5
+[{lemma:/\Qcongress\E/}] [{lemma:/\Qfrom\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qbear\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.5
+[{lemma:/\Qknow\E/}] [{lemma:/\Qas\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qelect\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qformer\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{PLACE:PLACE}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qdistrict\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qshift\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qon\E/}] [{lemma:/\Qaugust\E/}]	0.3333333333333333
+[{lemma:/\Qgovernor\E/}] [{lemma:/\Qof\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qgovernor\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qstate\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qmassachusetts\E/}]	0.3333333333333333
+[{lemma:/\Qbear\E/}]  (?$term []{1,3}) [{PLACE:PLACE}]	0.5
+[{lemma:/\Qdefeat\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qcall\E/}]	0.5
+[{lemma:/\Qbear\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.375
+[{lemma:/\Qwilliam\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.25
+[{lemma:/\Qpolitics\E/}] [{lemma:/\Qin\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qrun\E/}] [{lemma:/\Qfor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5

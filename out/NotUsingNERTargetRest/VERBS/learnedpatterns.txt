@@ -1,0 +1,75 @@
+[{lemma:/\Qspending\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qhome\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qspending\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qhome\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+[{lemma:/\Qmilitary\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Quniversity\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qmoney\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qgovernment\E/}]  (?$term []{1,3})	0.6666666666666666
+[{lemma:/\Qread\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qspending\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qwill\E/}]  (?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qback\E/}]	0.5
+[{lemma:/\Qhome\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+(?$term []{1,3}) [{lemma:/\Qfilibuster\E/}]	0.5
+[{lemma:/\Quniversity\E/}]  (?$term []{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qtrue\E/}]	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qgovernment\E/}]  (?$term []{1,3})	0.6666666666666666
+[{lemma:/\Qwill\E/}]  (?$term [{tag:/VB.*/}]{1,3}) [{VERBS:VERBS}]	0.5
+[{lemma:/\Qmilitary\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qmoney\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qsenate\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qread\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qspending\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qwill\E/}]  (?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qback\E/}]	0.5
+[{lemma:/\Qhome\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+(?$term []{1,3}) [{lemma:/\Qbad\E/}]	0.5
+(?$term []{1,3}) [{lemma:/\Qfilibuster\E/}]	0.5
+[{lemma:/\Quniversity\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qthis\E/}] [{lemma:/\Qcountry\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qtrue\E/}]	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qgovernment\E/}]  (?$term []{1,3})	0.6666666666666666
+[{lemma:/\Qwill\E/}]  (?$term [{tag:/VB.*/}]{1,3}) [{VERBS:VERBS}]	0.5
+[{lemma:/\Qwan\E/}] [{lemma:/\Qna\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qmilitary\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qmoney\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qwill\E/}] [{VERBS:VERBS}]  (?$term []{1,3})	0.5
+[{lemma:/\Qthe\E/}] [{VERBS:VERBS}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qsenate\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qread\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qspending\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qwill\E/}]  (?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qback\E/}]	0.5
+[{lemma:/\Qhome\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qten\E/}]	0.5
+(?$term []{1,3}) [{lemma:/\Qbad\E/}]	0.5
+[{lemma:/\Qthis\E/}] [{lemma:/\Qcountry\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qtrue\E/}]	0.5
+[{lemma:/\Qwe\E/}] [{lemma:/\Qgovernment\E/}]  (?$term []{1,3})	0.6666666666666666
+[{lemma:/\Qwan\E/}] [{lemma:/\Qna\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qmilitary\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qvoter\E/}]  (?$term [{tag:/VB.*/}]{1,3})	0.5
+[{lemma:/\Qmedicare\E/}]  (?$term [{tag:/RB.*/}]{1,3})	0.5
+[{lemma:/\Qthe\E/}] [{VERBS:VERBS}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qsenate\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qread\E/}]  (?$term []{1,3})	0.5
+(?$term [{tag:/VB.*/}]{1,3}) [{lemma:/\Qcost\E/}]	0.5
+[{lemma:/\Qroll\E/}]  (?$term []{1,3})	0.5
+(?$term []{1,3}) [{lemma:/\Qfilibuster\E/}]	0.5
+[{lemma:/\Quniversity\E/}]  (?$term []{1,3})	0.5
+[{lemma:/\Qwill\E/}]  (?$term [{tag:/VB.*/}]{1,3}) [{VERBS:VERBS}]	0.5
+[{lemma:/\Qwashington\E/}]  (?$term [{tag:/RB.*/}]{1,3})	0.5
+[{lemma:/\Qcountry\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qmoney\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qwill\E/}] [{VERBS:VERBS}]  (?$term []{1,3})	0.5
+[{lemma:/\Qright\E/}]  (?$term [{tag:/RB.*/}]{1,3})	0.5

@@ -1,0 +1,75 @@
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Qi\E/}]	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qwant\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qof\E/}] [{VERBS:VERBS}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qsay\E/}]	0.5
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qcall\E/}] [{lemma:/\Qthe\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Qi\E/}]	0.5
+[{lemma:/\Qto\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qwant\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Q's\E/}] [{lemma:/\Qtalk\E/}]	0.6666666666666666
+[{lemma:/\Qyear\E/}] [{lemma:/\Q,\E/}] [{lemma:/\Qa\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qsay\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Qi\E/}]	0.5
+[{lemma:/\Qto\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qwant\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{NAME:NAME}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Q's\E/}] [{lemma:/\Qtalk\E/}]	0.6666666666666666
+[{lemma:/\Qlaughter\E/}] [{lemma:/\Q)\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qof\E/}] [{VERBS:VERBS}]	0.5
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qcall\E/}] [{lemma:/\Qthe\E/}]	0.5
+[{lemma:/\Qstrong\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+[{lemma:/\Qnow\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qyear\E/}] [{lemma:/\Q,\E/}] [{lemma:/\Qa\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qsay\E/}]	0.5
+[{NAME:NAME}]  (?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}]	0.6666666666666666
+[{lemma:/\Q,\E/}] [{NAME:NAME}]  (?$term [{tag:/NN.*/}]{1,3})	0.8333333333333334
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Qi\E/}]	0.5
+[{lemma:/\Qapplause\E/}] [{lemma:/\Q)\E/}] [{NAME:NAME}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qto\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Q)\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qwant\E/}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{NAME:NAME}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Q's\E/}] [{lemma:/\Qtalk\E/}]	0.6666666666666666
+[{lemma:/\Qlaughter\E/}] [{lemma:/\Q)\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q.\E/}]	0.75
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qof\E/}] [{VERBS:VERBS}]	0.5
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qcall\E/}] [{lemma:/\Qthe\E/}]	0.5
+[{lemma:/\Qstrong\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+[{lemma:/\Qnow\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Q--\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qknow\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qyear\E/}] [{lemma:/\Q,\E/}] [{lemma:/\Qa\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{NAME:NAME}]  (?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}]	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Qi\E/}]	0.5
+[{lemma:/\Qto\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Q)\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Q30\E/}] [{lemma:/\Qseconds\E/}]	0.75
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Qwant\E/}]	0.5
+[{lemma:/\Qlaughter\E/}] [{lemma:/\Q)\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}] [{lemma:/\Qyou\E/}] [{lemma:/\Q.\E/}]	0.75
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qi\E/}] [{lemma:/\Qwould\E/}] [{lemma:/\Qlike\E/}]	0.5
+[{lemma:/\Q,\E/}] [{lemma:/\Qgovernor\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+[{lemma:/\Qapplause\E/}] [{lemma:/\Q)\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.8
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qto\E/}] [{lemma:/\Qsay\E/}]	0.5
+[{lemma:/\Q,\E/}] [{NAME:NAME}]  (?$term [{tag:/NN.*/}]{1,3})	0.8333333333333334
+[{lemma:/\Qapplause\E/}] [{lemma:/\Q)\E/}] [{NAME:NAME}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{NAME:NAME}]	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qthank\E/}]	0.8333333333333334
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Q,\E/}] [{lemma:/\Qlet\E/}] [{lemma:/\Q's\E/}] [{lemma:/\Qtalk\E/}]	0.6666666666666666
+[{lemma:/\Qfor\E/}] [{NAME:NAME}]  (?$term [{tag:/NN.*/}]{1,3})	0.6666666666666666
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qof\E/}] [{VERBS:VERBS}]	0.5
+[{lemma:/\Qben\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+(?$term [{tag:/NN.*/}]{1,3}) [{lemma:/\Qcall\E/}] [{lemma:/\Qthe\E/}]	0.5
+[{lemma:/\Qstrong\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
+[{lemma:/\Qnow\E/}] [{lemma:/\Q,\E/}]  (?$term [{tag:/NN.*/}]{1,3})	0.5
